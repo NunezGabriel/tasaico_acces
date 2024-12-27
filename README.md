@@ -2,7 +2,7 @@
 <img align="left" src="imgs/App.png" width="64px" >
 
 # Microsoft Access Examples
-Various examples of VBA, queries, macros, forms, reports and ribbon XML in an Microsoft Access database file
+An access project to admin production on tasaico 
 
 <!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
